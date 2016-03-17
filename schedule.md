@@ -71,7 +71,7 @@
 
 ## Week 2 - March 29
 
-* OPEN SLOT
+* Peter Springer
 * Nick Pisciotta
 
 ## Week 3 - April 5
@@ -92,4 +92,4 @@
 ## Week 6 - April 26
 
 * Christine Gamble
-* OPEN SLOT
+* Megan McMullin
