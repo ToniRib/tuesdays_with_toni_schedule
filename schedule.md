@@ -1,4 +1,4 @@
-# Module 1 Schedule
+# Module 2 Schedule
 
 ## Week 1
 
@@ -30,7 +30,7 @@
 * Nate Venn
 * Scott Firestone
 
-# Module 2 Schedule
+# Module 3 Schedule
 
 ## Week 1 - February 2
 
@@ -62,7 +62,7 @@
 * July Tran
 * Thomas Pickett
 
-# Module 3 Schedule
+# Module 4 Schedule
 
 ## Week 1 - March 22
 
