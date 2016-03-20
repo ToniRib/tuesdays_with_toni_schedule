@@ -1,4 +1,4 @@
-# Tuesday with Toni
+# Tuesdays with Toni
 
 Two sessions per Tuesday, each session is 45 minutes starting at 4:15pm.
 
@@ -51,17 +51,17 @@ Two sessions per Tuesday, each session is 45 minutes starting at 4:15pm.
 * Mark Miranda
 * Sunny Khalsa
 
-### Week 4 - February 23 
+### Week 4 - February 23
 
 * Erinna Chen
 * Jonathan Bernesser
 
-### Week 5 - March 1 
+### Week 5 - March 1
 
 * Marina Corona
 * Sal Espinosa
 
-### Week 6 - March 8 
+### Week 6 - March 8
 
 * July Tran
 * Thomas Pickett
