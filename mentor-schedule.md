@@ -4,9 +4,9 @@
 
 ### Week 1 (Tuesday, October 4, 2016)
 
-* 5:15 - 6:00:
+* 5:15 - 6:00: Edilene Cruz
 
-* 6:00 - 6:45:
+* 6:00 - 6:45:Michael Hill
 
 ### Week 2 (Wednesday, October 12, 2016)
 
@@ -37,4 +37,3 @@
 * 5:15 - 6:00:
 
 * 6:00 - 6:45:
-
