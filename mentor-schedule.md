@@ -10,7 +10,7 @@
 
 ### Week 2 (Wednesday, October 12, 2016)
 
-* 5:15 - 6:00:
+* 5:15 - 6:00:Dave Junta
 
 * 6:00 - 6:45:
 
