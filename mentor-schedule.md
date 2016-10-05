@@ -12,7 +12,7 @@
 
 * 5:15 - 6:00: Phyllis Hugunien
 
-* 6:00 - 6:45:
+* 6:00 - 6:45: Megan Talbot
 
 ### Week 3 (Tuesday, October 18, 2016)
 
