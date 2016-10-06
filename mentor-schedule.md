@@ -28,7 +28,7 @@
 
 ### Week 5 (Wednesday, November 2, 2016)
 
-* 5:15 - 6:00:
+* 5:15 - 6:00: Molly Brown
 
 * 6:00 - 6:45:
 
