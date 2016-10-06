@@ -16,13 +16,13 @@
 
 ### Week 3 (Tuesday, October 18, 2016)
 
-* 5:15 - 6:00:
+* 5:15 - 6:00: Drew Palazzari
 
 * 6:00 - 6:45:
 
 ### Week 4 (Tuesday, October 25, 2016)
 
-* 5:15 - 6:00:
+* 5:15 - 6:00: David Junta
 
 * 6:00 - 6:45:
 
