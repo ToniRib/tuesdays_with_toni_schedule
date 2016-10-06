@@ -18,7 +18,7 @@
 
 * 5:15 - 6:00: Drew Palazzari
 
-* 6:00 - 6:45:
+* 6:00 - 6:45: Lucy Conklin
 
 ### Week 4 (Tuesday, October 25, 2016)
 
