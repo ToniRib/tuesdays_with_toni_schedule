@@ -30,7 +30,7 @@
 
 * 5:15 - 6:00: Molly Brown
 
-* 6:00 - 6:45:
+* 6:00 - 6:45: Calaway
 
 ### Week 6 (Monday, November 7, 2016)
 
