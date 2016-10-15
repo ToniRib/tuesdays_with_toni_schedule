@@ -24,7 +24,7 @@
 
 * 5:15 - 6:00: David Junta
 
-* 6:00 - 6:45:
+* 6:00 - 6:45: Amara Lovato
 
 ### Week 5 (Wednesday, November 2, 2016)
 
