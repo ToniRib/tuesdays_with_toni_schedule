@@ -16,9 +16,9 @@
 
 ### Week 3 (Tuesday, October 18, 2016)
 
-* 5:15 - 6:00: Drew Palazzari
+* 5:00 - 5:45: Drew Palazzari
 
-* 6:00 - 6:45: Lucy Conklin
+* 5:45 - 6:30: Lucy Conklin
 
 ### Week 4 (Tuesday, October 25, 2016)
 
