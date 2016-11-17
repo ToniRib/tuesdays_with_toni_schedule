@@ -18,7 +18,7 @@
 
 ### Week 3 (Tuesday, December 13, 2016)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Amara Lovato
 
 * 5:45 - 6:30:
 
