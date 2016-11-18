@@ -6,7 +6,7 @@
 
 ### Week 1 (Tuesday, November 29, 2016)
 
-* 5:00 - 5:45:
+* 6:00 - 5:45: Max Glassie
 
 * 5:45 - 6:30:
 
