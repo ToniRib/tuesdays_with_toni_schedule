@@ -24,7 +24,7 @@
 
 ### Week 4 (Tuesday, December 20, 2016)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Casey Macaulay
 
 * 5:45 - 6:30:
 
