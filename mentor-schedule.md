@@ -6,9 +6,9 @@
 
 ### Week 1 (Tuesday, November 29, 2016)
 
-* 6:00 - 5:45: Max Glassie
+* 5:00 - 5:45: Max Glassie
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Phyllis Hugunien
 
 ### Week 2 (Tuesday, December 6, 2016)
 
