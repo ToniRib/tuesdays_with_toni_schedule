@@ -20,13 +20,13 @@
 
 * 5:00 - 5:45: Amara Lovato
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Jonathan Serrano
 
 ### Week 4 (Tuesday, December 20, 2016)
 
 * 5:00 - 5:45: Casey Macaulay
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Kevin Delaney
 
 ### Week 5 (Wednesday, January 4, 2017)
 
