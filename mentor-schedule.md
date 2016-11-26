@@ -12,7 +12,7 @@
 
 ### Week 2 (Tuesday, December 6, 2016)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Maria Stenquist
 
 * 5:45 - 6:30:
 
