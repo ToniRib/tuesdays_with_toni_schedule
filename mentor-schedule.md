@@ -30,7 +30,7 @@
 
 ### Week 5 (Wednesday, January 4, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Valerie Trudell
 
 * 5:45 - 6:30:
 
