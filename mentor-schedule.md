@@ -14,7 +14,7 @@
 
 * 5:00 - 5:45: Maria Stenquist
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Christopher Dale
 
 ### Week 3 (Tuesday, December 13, 2016)
 
