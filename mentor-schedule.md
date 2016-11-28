@@ -32,7 +32,7 @@
 
 * 5:00 - 5:45: Valerie Trudell
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Courtney Meyerhofer
 
 ### Week 6 (Tuesday, January 10, 2017)
 
