@@ -22,6 +22,12 @@
 
 * 5:45 - 6:30: Jonathan Serrano
 
+### Week 3 Session 2 (Thursday, December 15, 2016)
+
+* 5:00 - 5:45: Spencer Carter
+
+* 5:45 - 6:30: Bailey Ward
+
 ### Week 4 (Tuesday, December 20, 2016)
 
 * 5:00 - 5:45: Casey Macaulay
