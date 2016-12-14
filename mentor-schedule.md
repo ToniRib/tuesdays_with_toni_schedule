@@ -22,7 +22,7 @@
 
 * 5:45 - 6:30: Jonathan Serrano
 
-### Week 3 Session 2 (Thursday, December 15, 2016)
+### Week 3 Session 2 (Wednesday, December 14, 2016)
 
 * 5:00 - 5:45: Spencer Carter
 
