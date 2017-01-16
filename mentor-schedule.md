@@ -30,7 +30,7 @@
 
 ### Week 5 (Tuesday, February 21, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Ryan Spink
 
 * 5:45 - 6:30:
 
