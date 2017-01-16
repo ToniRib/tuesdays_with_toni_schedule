@@ -8,7 +8,7 @@
 
 * 5:00 - 5:45: Mike Schutte
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Molly Brown
 
 ### Week 2 (Tuesday, January 31, 2017)
 
@@ -18,7 +18,7 @@
 
 ### Week 3 (Tuesday, February 7, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Jonathan Serrano
 
 * 5:45 - 6:30:
 
