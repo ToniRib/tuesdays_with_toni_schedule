@@ -8,8 +8,7 @@
 
 * 5:00 - 5:45: Mike Schutte
 
-* 5:45 - 6:30:
-
+* 5:45 - 6:30: David Knott
 ### Week 2 (Tuesday, January 31, 2017)
 
 * 5:00 - 5:45: Courtney Meyerhofer
