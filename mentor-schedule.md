@@ -20,7 +20,7 @@
 
 * 5:00 - 5:45: Jonathan Serrano
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Josh Thompson
 
 ### Week 4 (Wednesday, February 15, 2017)
 
