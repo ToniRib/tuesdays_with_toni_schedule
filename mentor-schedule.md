@@ -14,7 +14,7 @@
 
 * 5:00 - 5:45: Courtney Meyerhofer
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Brandon Randall
 
 ### Week 3 (Tuesday, February 7, 2017)
 
