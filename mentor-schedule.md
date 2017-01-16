@@ -20,25 +20,25 @@
 
 * 5:00 - 5:45: Jonathan Serrano
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Josh Thompson
 
 ### Week 4 (Wednesday, February 15, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Diana Whalen
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Natalie Barron
 
 ### Week 5 (Tuesday, February 21, 2017)
 
 * 5:00 - 5:45: Ryan Spink
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Erin Bassity
 
 ### Week 6 (Tuesday, February 28, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Edilene Cruz
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Spencer Carter
 
 
 # November 2016 Start
