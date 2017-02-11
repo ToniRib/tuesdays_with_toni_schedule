@@ -58,6 +58,8 @@ Now that mod 1 has gotten their feet wet a little, they might be ready for thing
 * saving GitHub username/password
 * setting up aliases (including git aliases)
 * setting up iTerm profiles & other iTerm settings (including keymappings for options & command that are natural)
+* git commit routing to atom or another text editor
+* basic VIM in case you want to use that plus git commit auto-wrapping and spell checking for vim
 
 ### Week 5 - Heroku
 #### Focus: Mods 2 - 4, FE or BE
