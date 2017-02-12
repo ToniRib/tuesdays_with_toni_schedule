@@ -46,6 +46,7 @@ In depth dive into git, advanced git workflow, and style guides. Possibly a long
 * git add -p and Sourcetree
 * git reset demystified
 * git remotes
+* recovering from git reset --hard (yes, it is possible)
 * commit message and PR style/guidelines
 
 ### Week 4 - Helpful Terminal/Environment Setup
