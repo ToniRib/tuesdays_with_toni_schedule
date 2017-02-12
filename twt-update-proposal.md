@@ -1,4 +1,4 @@
-# Tuesdays With Toni 
+# Tuesdays With Toni
 ## Lesson Proposal
 
 ### Overview
@@ -14,7 +14,7 @@ I've seen a lot of the same knowledge gaps in students from the 3 mods when I di
 ### Week 1 - ActiveRecord & SQL
 #### Focus: BE Mods 2 & 3
 
-The process of constructing a query, both in raw SQL and ActiveRecord. 
+The process of constructing a query, both in raw SQL and ActiveRecord.
 
 - How do I take a request 'find me the most ridden bike' and turn it into a query?
 - What table should you start with?
@@ -55,6 +55,7 @@ Now that mod 1 has gotten their feet wet a little, they might be ready for thing
 
 * terminal prompts (colors, git branch/state, etc.)
 * bash vs. fish
+* git completion in terminal
 * saving GitHub username/password
 * setting up aliases (including git aliases)
 * setting up iTerm profiles & other iTerm settings (including keymappings for options & command that are natural)
