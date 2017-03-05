@@ -24,7 +24,7 @@
 
 ### Week 4 (Tuesday, April 4, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Natalie Barron
 
 * 5:45 - 6:30:
 
