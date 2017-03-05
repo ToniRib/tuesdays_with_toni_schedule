@@ -20,13 +20,13 @@
 
 * 5:00 - 5:45: Diana Whalen
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Valerie Trudell
 
 ### Week 4 (Tuesday, April 4, 2017)
 
 * 5:00 - 5:45: Natalie Barron
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Brandon Randall
 
 ### Week 5 (Tuesday, April 11, 2017)
 
