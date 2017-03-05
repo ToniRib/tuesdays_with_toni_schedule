@@ -30,7 +30,7 @@
 
 ### Week 5 (Tuesday, April 11, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Josh Thompson
 
 * 5:45 - 6:30:
 
