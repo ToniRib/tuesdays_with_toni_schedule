@@ -38,7 +38,7 @@
 
 * 5:00 - 5:45: Stephanie Bentley
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Marc Fidelman
 
 
 # January 2017 Start
