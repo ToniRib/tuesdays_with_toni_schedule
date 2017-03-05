@@ -32,11 +32,11 @@
 
 * 5:00 - 5:45: Josh Thompson
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Kristen Mueller
 
 ### Week 6 (Tuesday, April 18, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Stephanie Bentley
 
 * 5:45 - 6:30:
 
