@@ -14,7 +14,7 @@
 
 * 5:00 - 5:45:
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Andrew Wooten
 
 ### Week 3 (Tuesday, March 28, 2017)
 
