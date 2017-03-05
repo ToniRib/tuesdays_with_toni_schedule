@@ -6,7 +6,7 @@
 
 ### Week 1 (Wednesday, March 15, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Katy Farmer
 
 * 5:45 - 6:30:
 
