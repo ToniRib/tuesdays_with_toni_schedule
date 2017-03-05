@@ -8,11 +8,11 @@
 
 * 5:00 - 5:45: Katy Farmer
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Courtney Meyerhofer
 
 ### Week 2 (Tuesday, March 21, 2017)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Casey Macauley
 
 * 5:45 - 6:30: Andrew Wooten
 
