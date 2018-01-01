@@ -8,7 +8,7 @@
 
 * 5:00 - 5:45: Merika
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Megan McMahon
 
 ### Week 6 (Tuesday, January 9, 2018)
 
