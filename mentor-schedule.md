@@ -1,4 +1,20 @@
-# Tuesdays With Toni (Mentor ReVamp!)
+# Tuesdays With Toni Mentoring Schedule
+
+# January 2018 (Mid-Mod) Start
+
+## Jan 2, 2018 - Jan 9, 2018
+
+### Week 5 (Tuesday, January 2, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+### Week 6 (Tuesday, January 9, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
 
 # March 2017 Start
 
