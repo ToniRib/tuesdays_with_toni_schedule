@@ -14,7 +14,7 @@
 
 * 5:00 - 5:45: Emily Wise
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Kelley Jenkins
 
 # March 2017 Start
 
