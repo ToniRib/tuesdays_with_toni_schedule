@@ -36,7 +36,7 @@
 
 ### Week 6 (Tuesday, February 27, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Haley Mesander
 
 * 5:45 - 6:30:
 
