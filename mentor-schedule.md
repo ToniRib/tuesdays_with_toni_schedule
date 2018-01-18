@@ -26,7 +26,7 @@
 
 * 5:00 - 5:45: Young Jung
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Nikhil Shahi
 
 ### Week 5 (Tuesday, February 20, 2018)
 
