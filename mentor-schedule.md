@@ -30,7 +30,7 @@
 
 ### Week 5 (Tuesday, February 20, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Luke Chambers
 
 * 5:45 - 6:30:
 
