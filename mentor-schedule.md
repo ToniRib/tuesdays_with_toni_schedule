@@ -8,7 +8,7 @@
 
 * 5:00 - 5:45: Tim Joo
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Timo Tyrrell
 
 ### Week 2 (Tuesday, January 30, 2018)
 
