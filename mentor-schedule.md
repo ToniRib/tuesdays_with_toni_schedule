@@ -1,5 +1,46 @@
 # Tuesdays With Toni Mentoring Schedule
 
+# January 2018 Start
+
+## Jan 23, 2018 - Feb 27, 2018
+
+### Week 1 (Tuesday, January 23, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+### Week 2 (Tuesday, January 30, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+### Week 3 (Tuesday, February 6, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+### Week 4 (Tuesday, February 13, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+### Week 5 (Tuesday, February 20, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+### Week 6 (Tuesday, February 27, 2018)
+
+* 5:00 - 5:45:
+
+* 5:45 - 6:30:
+
+
 # January 2018 (Mid-Mod) Start
 
 ## Jan 2, 2018 - Jan 9, 2018
