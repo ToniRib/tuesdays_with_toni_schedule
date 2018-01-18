@@ -6,25 +6,25 @@
 
 ### Week 1 (Tuesday, January 23, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Tim Joo
 
 * 5:45 - 6:30:
 
 ### Week 2 (Tuesday, January 30, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Tyler Madsen
 
 * 5:45 - 6:30:
 
 ### Week 3 (Tuesday, February 6, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Kelley Jenkins
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Katy Welyczko
 
 ### Week 4 (Tuesday, February 13, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Young Jung
 
 * 5:45 - 6:30:
 
