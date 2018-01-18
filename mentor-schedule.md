@@ -14,7 +14,7 @@
 
 * 5:00 - 5:45: Tyler Madsen
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Sergio Munoz
 
 ### Week 3 (Tuesday, February 6, 2018)
 
@@ -32,7 +32,7 @@
 
 * 5:00 - 5:45: Luke Chambers
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Emily Wise
 
 ### Week 6 (Tuesday, February 27, 2018)
 
