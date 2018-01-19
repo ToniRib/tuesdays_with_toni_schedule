@@ -38,7 +38,7 @@
 
 * 5:00 - 5:45: Haley Mesander
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Aaron Schreck
 
 
 # January 2018 (Mid-Mod) Start
