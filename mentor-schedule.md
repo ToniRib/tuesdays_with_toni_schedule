@@ -20,11 +20,11 @@
 
 * 5:00 - 5:45: Kelley Jenkins
 
-* 5:45 - 6:30: Katy Welyczko
+* 5:45 - 6:30: Young Jung
 
 ### Week 4 (Tuesday, February 13, 2018)
 
-* 5:00 - 5:45: Young Jung
+* 5:00 - 5:45: Katy Welyczko
 
 * 5:45 - 6:30: Nikhil Shahi
 
