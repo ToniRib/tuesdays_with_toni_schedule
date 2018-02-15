@@ -38,7 +38,7 @@
 
 * 5:00 - 5:45: Haley Mesander
 
-* 5:45 - 6:30: Aaron Schreck
+* 5:45 - 6:30: Clee Pollock
 
 
 # January 2018 (Mid-Mod) Start
