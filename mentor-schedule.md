@@ -30,9 +30,9 @@
 
 ### Week 5 (Thursday, April 12, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Nikhil Shahi
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Haley Mesander
 
 ### Week 6
 
