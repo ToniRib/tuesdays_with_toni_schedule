@@ -20,7 +20,7 @@
 
 * 5:00 - 5:45: Matt Milton
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Luke Chambers
 
 ### Week 4 (Thursday, April 5, 2018)
 
