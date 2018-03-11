@@ -12,7 +12,7 @@
 
 ### Week 2 (Thursday, March 22, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Katy Welyczko
 
 * 5:45 - 6:30:
 
