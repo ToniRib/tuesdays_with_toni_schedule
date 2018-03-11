@@ -14,19 +14,19 @@
 
 * 5:00 - 5:45: Katy Welyczko
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Tim Joo
 
 ### Week 3 (Thursday, March 29, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Matt Milton
 
 * 5:45 - 6:30:
 
 ### Week 4 (Thursday, April 5, 2018)
 
-* 5:00 - 5:45:
+* 5:00 - 5:45: Clee Pollock
 
-* 5:45 - 6:30:
+* 5:45 - 6:30: Matt Bricker
 
 ### Week 5 (Thursday, April 12, 2018)
 
